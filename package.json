@@ -1,6 +1,6 @@
 {
   "name": "maft",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "mountain auto frontend tool",
   "main": "index.js",
   "bin": {
@@ -32,7 +32,8 @@
     "fis3-deploy-local-deliver": "1.0.0",
     "fis3-hook-components": "1.0.3",
     "fis3-packager-map": "1.0.9",
-    "fis3-errors": "*"
+    "fis3-errors": "*",
+    "fis3-hook-relative": "*"
   },
   "devDependencies": {
     "chai": "^2.2.0",
