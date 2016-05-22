@@ -1,6 +1,6 @@
 {
   "name": "maft",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "mountain auto frontend tool",
   "main": "index.js",
   "bin": {
